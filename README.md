@@ -1,6 +1,7 @@
 # Funnel Analysis Project
 
 An end-to-end Python analysis of an e-commerce customer journey to identify drop-off points and optimize conversion rates.
+docs/Funnel Analysis.png
 
 ## Project Overview
 
